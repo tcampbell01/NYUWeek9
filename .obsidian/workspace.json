@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "036f3bddae334d94",
+        "id": "3a528f51570507a7",
         "type": "tabs",
         "children": [
           {
-            "id": "f519a185a0fe94ae",
+            "id": "2f82f42bf733c102",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arrays.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Arrays"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Arrays"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Arrays"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arrays.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Arrays"
+              "title": "Outline"
             }
           }
         ]
@@ -169,15 +162,20 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f519a185a0fe94ae",
+  "active": "2f82f42bf733c102",
   "lastOpenFiles": [
+    "Strings.md",
+    "Arrays.md",
+    "Welcome.md",
+    "alphabetical_order",
+    "alphabetical_order.cpp",
+    "printing_backwards",
+    "printing_backwards.cpp",
     "Arrays_average",
     "Arrays_average.cpp",
     "https:/github.com/tcampbell01/NYUWeek9.git",
     "https:/github.com/tcampbell01",
     "https:/github.com",
-    "https:",
-    "Arrays.md",
-    "Welcome.md"
+    "https:"
   ]
 }
